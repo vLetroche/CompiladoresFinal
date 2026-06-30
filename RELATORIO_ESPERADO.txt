@@ -1,0 +1,49 @@
+cod/programa0.gyh cod/programa1.gyh cod/programa2.gyh cod/programa3.gyh
+cod/programa4.gyh cod/programa5.gyh cod/programa6.gyh
+cod/programa7.gyh cod/programa8.gyh cod/programa9.gyh
+cod/programa10.gyh cod/programa11.gyh cod/programa12.gyh
+
+-----------------------------------------------
+
+cod/programa0.gyh	Erro Léxico: desconhecido ENTO
+cod/programa1.gyh	Programa nao tem erro lexico
+cod/programa10.gyh	Não possui erro Léxico
+cod/programa11.gyh	Não possui erro Léxico
+cod/programa12.gyh	Erro Léxico: desconhecido caractere "
+cod/programa2.gyh	Erro Léxico: <INt> nao eh Palavra Chave
+cod/programa3.gyh	Programa nao tem erro lexico
+cod/programa4.gyh	Erro Léxico: <_> caractere desconhecido
+cod/programa5.gyh	Erro Léxico: <=> 
+cod/programa6.gyh	Programa nao tem erro lexico
+cod/programa7.gyh	Erro Léxico: < ! >
+cod/programa8.gyh	Programa não possui erro léxico
+cod/programa9.gyh	Não possui erro Léxico
+cod/programa1.gyh	Programa nao tem erro sintático
+cod/programa10.gyh	Erro sintático: 'Inesperado Token: PCReal' ou 'Inesperado Lexema: REAL' ou 'Esperado Token Var' 
+cod/programa11.gyh	Programa nao tem erro sintático
+cod/programa12.gyh	Erro sintático: 'Esperado Token FechaPar'
+cod/programa13.gyh	Erro sintático: 'Esperado Token Cadeia ou Variável' 
+cod/programa14.gyh	Erro sintático: 'Esperado Token PCFim'
+cod/programa15.gyh	Erro sintático: 'Inesperado NUM'
+cod/programa16.gyh	Erro sintático: 'Inesperado OpRel'
+cod/programa17.gyh	Erro sintático: 'Inesperado Var'
+cod/programa18.gyh	NAo tem erro sintático: 'Inesperado Var'
+cod/programa19.gyh	NErro sintático: 'Inesperado OPBool'
+cod/programa2.gyh	Programa nao tem erro sintático
+cod/programa3.gyh	Erro sintático: 'Inesperado Token: Var' ou 'Inesperado Lexema: parametro' ou 'Esperado Token PCDec' ou 'Esperado Lexema DEC'
+cod/programa4.gyh	Erro sintático: 'Inesperado Token: Var' ou 'Inesperado Lexema: fatorial' ou 'Esperado TipoVar' 
+cod/programa5.gyh	Erro sintático: 'Inesperado Token: NumInt' ou 'Inesperado Lexema: INT' ou 'Esperado Token Delim' ou 'Esperado Lexema :'
+cod/programa6.gyh	Erro sintático: 'Inesperado Token: OpRelIgual' ou 'Inesperado Lexema: ==' 
+cod/programa7.gyh	Erro sintático: 'Inesperado Token: Var' ou 'Inesperado Lexema: num2' ou 'Esperado Token OpBool' 
+cod/programa8.gyh	Erro sintático: 'Esperado Token FechaPar' ou 'Esperado Lexema )'
+cod/programa9.gyh	Erro sintático: 'Inesperado Token: FechaPar' ou 'Inesperado Lexema: )' 
+cod/programa1.gyh	Programa nao tem erro sintático
+cod/programa10.gyh	Programa nao tem erro sintático
+cod/programa2.gyh	Programa nao tem erro sintático
+cod/programa3.gyh	Erro semantico: parametr não foi declarado
+cod/programa4.gyh	Erro semantico: num não foi declarado
+cod/programa5.gyh	Incompatibilidade de tipo
+cod/programa6.gyh	Incompatibilidade de tipo de variavel
+cod/programa7.gyh	Overflow
+cod/programa8.gyh	Overflow
+cod/programa9.gyh	Overflow
