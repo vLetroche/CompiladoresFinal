@@ -1,0 +1,49 @@
+cod/programa0.gyh cod/programa1.gyh cod/programa2.gyh cod/programa3.gyh
+cod/programa4.gyh cod/programa5.gyh cod/programa6.gyh
+cod/programa7.gyh cod/programa8.gyh cod/programa9.gyh
+cod/programa10.gyh cod/programa11.gyh cod/programa12.gyh
+
+-----------------------------------------------
+
+cod/programa0.gyh	ERRO Lexico: token recognition error at: '.'
+cod/programa1.gyh	ok
+cod/programa10.gyh	ok
+cod/programa11.gyh	ERRO Lexico: token recognition error at: '.'
+cod/programa12.gyh	ERRO Lexico: token recognition error at: '.'
+cod/programa2.gyh	ERRO Lexico: token recognition error at: 'INt'
+cod/programa3.gyh	ok
+cod/programa4.gyh	ERRO Lexico: token recognition error at: '_'
+cod/programa5.gyh	ERRO Lexico: token recognition error at: '= '
+cod/programa6.gyh	ok
+cod/programa7.gyh	ERRO Lexico: token recognition error at: '! '
+cod/programa8.gyh	ok
+cod/programa9.gyh	ok
+cod/programa1.gyh	ok
+cod/programa10.gyh	ERRO Sintatico: no viable alternative at input 'LERREAL'
+cod/programa11.gyh	ok
+cod/programa12.gyh	ERRO Sintatico: no viable alternative at input 'ENQTO(parametro>1)INIfatorial:=((fatorial)*(parametro-1))parametro:=(((parametro)-1)FIM'
+cod/programa13.gyh	ERRO Sintatico: no viable alternative at input 'IMPRIMIRIMPRIMIR'
+cod/programa14.gyh	ERRO Sintatico: no viable alternative at input 'ENQTO(parametro>1)INIfatorial:=((fatorial)*(parametro-1))parametro:=(((parametro)-1))IMPRIMIRfatorialIMPRIMIR"Oi"'
+cod/programa15.gyh	ERRO Sintatico: no viable alternative at input 'ENQTO(parametro>1)INIfatorial:=((fatorial)*(parametro-1))parametro:=(((parametro)1'
+cod/programa16.gyh	ERRO Sintatico: no viable alternative at input 'ENQTO(parametro>1)INIfatorial:=((fatorial)*(parametro-1))parametro:=(((parametro)>'
+cod/programa17.gyh	ERRO Sintatico: no viable alternative at input 'SE(parametro==0)fatorial'
+cod/programa18.gyh	ok
+cod/programa19.gyh	ERRO Sintatico: no viable alternative at input 'ENQTO(parametro>1)EOU'
+cod/programa2.gyh	ERRO Semantico: Erro Semântico: Variável 'num4' não foi declarada!
+cod/programa3.gyh	ERRO Sintatico: missing 'DEC' at 'parametro'
+cod/programa4.gyh	ERRO Sintatico: no viable alternative at input 'parametro:fatorial'
+cod/programa5.gyh	ERRO Sintatico: no viable alternative at input 'parametroINT'
+cod/programa6.gyh	ERRO Sintatico: no viable alternative at input 'fatorial=='
+cod/programa7.gyh	ERRO Sintatico: no viable alternative at input 'SEnum1>num3Enum2<=num4Enum1>3num2'
+cod/programa8.gyh	ERRO Sintatico: no viable alternative at input 'SEnum1>num2ENTAOINIaux:=2+3-(4+5)-6*(5-1num2'
+cod/programa9.gyh	ERRO Sintatico: no viable alternative at input 'SEnum1>num2ENTAOINIaux:=2+3-4+5)'
+cod/programa1.gyh	ok
+cod/programa10.gyh	ERRO Semantico: Erro Semântico: Variável 'num4' não foi declarada!
+cod/programa2.gyh	ERRO Semantico: Erro Semântico: Variável 'num4' não foi declarada!
+cod/programa3.gyh	ERRO Semantico: Erro Semântico: Variável 'parametr' não foi declarada!
+cod/programa4.gyh	ERRO Semantico: Erro Semântico: Variável 'num' não foi declarada!
+cod/programa5.gyh	ok
+cod/programa6.gyh	ERRO Semantico: Erro Semântico: Variável 'num4' não foi declarada!
+cod/programa7.gyh	ok
+cod/programa8.gyh	ERRO Semantico: Erro Semântico: Variável 'num4' não foi declarada!
+cod/programa9.gyh	ERRO Semantico: Erro Semântico: Variável 'num4' não foi declarada!

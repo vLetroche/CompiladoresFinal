@@ -73,7 +73,7 @@ comandoEntrada: PCLer Var;
 
 // ComandoSaida -> 'IMPRIMIR' VARIAVEL | 'IMPRIMIR' CADEIA;
 comandoSaida: PCImprimir Var 
-            | PCImprimir Cadeia;
+            | PCImprimir STRING;
 
 // ComandoCondicao -> 'SE' ExpressaoRelacional 'ENTAO' Comando | 'SE' ExpressaoRelacional 'ENTAO' Comando 'SENAO' Comando;
 comandoCondicao: PCSe expressaoRelacional PCEntao comando 
@@ -122,6 +122,8 @@ FechaPar         : ')';
 Var               : [a-z][a-zA-Z0-9]*;           
 NumInt            : [0-9]+;                      
 NumReal           : [0-9]+ '.' [0-9]+;           
-Cadeia            : '"' [^"\r\n]* '"' | '\'' [^'\r\n]* '\'' ;
+STRING            : '"' (~["\r\n\\])* '"' | '\'' (~['\r\n\\])* '\'';
 
+// Comentários
+COMMENT           : '#' ~[\r\n]* -> skip;
 WS                : [ \t\r\n]+ -> skip;

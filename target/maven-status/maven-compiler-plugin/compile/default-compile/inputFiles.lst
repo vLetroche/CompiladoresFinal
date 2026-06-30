@@ -1,0 +1,13 @@
+/workspaces/CompiladoresFinal/src/main/java/GyhCompilerVisitor.java
+/workspaces/CompiladoresFinal/src/main/java/GyhGrammarBaseListener.java
+/workspaces/CompiladoresFinal/src/main/java/GyhGrammarBaseVisitor.java
+/workspaces/CompiladoresFinal/src/main/java/GyhGrammarLexer.java
+/workspaces/CompiladoresFinal/src/main/java/GyhGrammarListener.java
+/workspaces/CompiladoresFinal/src/main/java/GyhGrammarParser.java
+/workspaces/CompiladoresFinal/src/main/java/GyhGrammarVisitor.java
+/workspaces/CompiladoresFinal/src/main/java/GyhProgram.java
+/workspaces/CompiladoresFinal/src/main/java/LexerErrorListener.java
+/workspaces/CompiladoresFinal/src/main/java/ParserErrorListener.java
+/workspaces/CompiladoresFinal/src/main/java/Symbol.java
+/workspaces/CompiladoresFinal/src/main/java/SymbolTable.java
+/workspaces/CompiladoresFinal/src/main/java/main.java

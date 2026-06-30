@@ -1,0 +1,31 @@
+COMPILADOR GYH - RESUMO FINAL
+==============================
+
+COMPONENTES IMPLEMENTADOS:
+1. Análise Léxica - Detecta erros de tokens
+2. Análise Sintática - Detecta erros de estrutura gramatical
+3. Análise Semântica - Detecta variáveis não declaradas e operadores mal usados
+4. Geração de Código - Gera código C válido
+5. Compilação C - Compila o código gerado com gcc
+
+ARQUIVOS PRINCIPAIS:
+- src/main/java/main.java - Classe principal
+- src/main/java/GyhCompilerVisitor.java - Análise semântica
+- src/main/java/GyhProgram.java - Geração de código
+- src/main/java/SymbolTable.java - Tabela de símbolos
+- src/main/java/Symbol.java - Símbolo (variável)
+- GyhGrammar.g4 - Gramática ANTLR
+
+ESTATÍSTICAS DOS TESTES:
+- Testes Léxicos: 13 programas testados
+- Testes Sintáticos: 19 programas testados
+- Testes Semânticos: 9 programas testados
+- Total: 41 programas
+
+RESULTADOS:
+- Erros Léxicos: Detectados corretamente
+- Erros Sintáticos: Detectados corretamente
+- Erros Semânticos: Detectados corretamente
+- Compilações bem-sucedidas: Geram código C válido
+
+RELATÓRIO DETALHADO: Ver arquivo RELATORIO_TESTES.txt
